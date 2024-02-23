@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LeGauthsss
-- 👀 I'm a handsome Belgian engineer
+- 👀 I'm a Belgian engineer
 - 🌱 I’m interested in ecology in technology 
 - I code just for fun... For the time being
 
